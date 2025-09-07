@@ -11,7 +11,7 @@ import {
   Scissors,
   Palette,
   Star,
-  Sparkles
+  Sparkles,
   ChevronDown,
   Calendar,
   Plus
